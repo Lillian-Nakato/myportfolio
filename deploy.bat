@@ -54,6 +54,6 @@ echo 2. Click on Settings
 echo 3. Scroll down to Pages section
 echo 4. Select "GitHub Actions" as source
 echo 5. Your site will be available at:
-echo    https://yourusername.github.io/repository-name
+echo    https://github.com/Lillian-Nakato/myportfolio.git
 echo.
 pause
