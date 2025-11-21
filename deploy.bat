@@ -39,8 +39,8 @@ if errorlevel 1 (
 
 echo.
 echo Pushing to GitHub...
-git branch -M main
-git push -u origin main
+git branch -M master
+git push -u origin master
 
 echo.
 echo ========================================
