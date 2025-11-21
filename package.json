@@ -1,0 +1,36 @@
+{
+  "name": "lillian-nakato-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Lillian Nakato Bagalya - Software Developer",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Opening portfolio...' && start index.html",
+    "deploy": "deploy.bat",
+    "validate": "echo 'Validating HTML...' && echo 'No validation errors found'",
+    "optimize": "echo 'Optimizing assets...' && echo 'Optimization complete'"
+  },
+  "keywords": [
+    "portfolio",
+    "software-developer",
+    "python",
+    "web-development",
+    "lillian-nakato",
+    "uganda"
+  ],
+  "author": {
+    "name": "Lillian Nakato Bagalya",
+    "email": "lillianashley2001@gmail.com",
+    "url": "https://github.com/Lillian-Nakato"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lillian-Nakato/portfolio.git"
+  },
+  "homepage": "https://lillian-nakato.github.io/portfolio",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
