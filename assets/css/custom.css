@@ -1,5 +1,23 @@
 /* Custom CSS for Portfolio Enhancement */
 
+:root {
+  --accent-color: #149ddd;
+  --accent-color-2: #0d7aa7;
+  --background-color: #0f1724;
+  --surface-color: #0b1220;
+  --text-color: #e6eef8;
+}
+
+body {
+  font-family: 'Poppins', 'Roboto', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif;
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
+
+.hero .profile-img {
+  max-width: 220px;
+}
+
 /* Hero Section Improvements */
 .hero-buttons .btn {
   margin: 0.5rem;
