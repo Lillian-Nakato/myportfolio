@@ -1,11 +1,15 @@
 /* Custom CSS for Portfolio Enhancement */
 
+
 :root {
   --accent-color: #149ddd;
   --accent-color-2: #0d7aa7;
-  --background-color: #0f1724;
-  --surface-color: #0b1220;
-  --text-color: #e6eef8;
+  --background-color: #ffffff; /* restored white background */
+  --surface-color: #ffffff; /* boxed elements remain white */
+  --text-color: #272829; /* dark text for readability */
+  --heading-color: #050d18;
+  --default-color: #272829;
+  --contrast-color: #ffffff;
 }
 
 body {
